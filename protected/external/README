@@ -1,0 +1,5 @@
+External folder contains code snippets that other linxhq's apps can use to interact with linxhq SSO. For example:
+
+1) How to read session to get login status
+2) How to call remote login page
+... 

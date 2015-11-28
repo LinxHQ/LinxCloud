@@ -1,0 +1,53 @@
+#page {
+    padding-top: 30px;
+}
+.navbar{
+    padding: 4px 6px 0px 10px;
+    width: 85%;
+    float: left;
+}
+.navbar .container{
+    width: 100%;
+}
+.navbar .brand{
+    margin-top: 5px;
+}
+body{
+    background-color: #fff;
+}
+#content-home-app li{
+    display: inline-block;
+    text-align: center;
+    padding: 30px;
+}
+#content-home-app li a{
+    font-size: 22px;
+    text-decoration: none;
+}
+#content-home-app li img{
+     margin-bottom: 8px;
+}
+#linx-menu-top{
+    border-bottom: 1px solid #ddd;
+    height: 50px;
+    width: 100%;
+}
+#linx-menu-top-left{
+    float: left;
+    padding: 6px;
+    width: 10%
+}
+#linx-menu-top-left .btn{
+    background-color:transparent;
+    border-width:0px;
+    padding:4px 0px;
+    background-image:none;
+    box-shadow:none;
+}
+#linx-menu-top-left .btn:hover{
+    background-color:none;
+}
+.dropdown-menu-right {
+    left: auto;
+    right: 0;
+}
