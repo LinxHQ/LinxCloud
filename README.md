@@ -1,5 +1,5 @@
 # LinxCloud
-LinxCloud saves you from headache in implementing and managing your open-source apps. It puts together probably the best open-source apps on the Internet. 
+LinxCloud saves you from headache in implementing and managing your open-source apps. It puts together probably the best enterprise open-source apps on the Internet. 
 
 # List of Open-Source Apps
 
